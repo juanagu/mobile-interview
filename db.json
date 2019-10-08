@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "first_name": "Juan"
+      "last_name": "Agu",
+      "job_position": "Mobile Technical Lead",
+      "gender": "M",
+      "location": "Córdoba, Argentina",
+      "photo": "https://avatars1.githubusercontent.com/u/4689126?s=460&v=4",
+    },
+    {
+      "id": 2,
+      "first_name": "Franco"
+      "last_name": "Piemontesi",
+      "job_position": "Backend Technical Lead",
+      "gender": "M",
+      "location": "Córdoba, Argentina",
+      "photo": "https://media.licdn.com/dms/image/C4E03AQGLnRTpfbFIDQ/profile-displayphoto-shrink_200_200/0?e=1576108800&v=beta&t=6KG6BrseflNeCP6-H-a11EsTeD2DHrw3eNLZZWUi9P8",
+    },
+    {
+      "id": 3,
+      "first_name": "Rodrigo"
+      "last_name": "Garcia",
+      "job_position": "Mobile developer",
+      "gender": "M",
+      "location": "Córdoba, Argentina",
+      "photo": "https://media.licdn.com/dms/image/C4D03AQGzdW3xEj8Jtw/profile-displayphoto-shrink_200_200/0?e=1576108800&v=beta&t=NR9c6ALqeBjPrQnJSnv5Lq3L59GKDXKRhr4Ky7Ffw4o",
+    },
+    {
+      "id": 4,
+      "first_name": "Angie"
+      "last_name": "Martinez",
+      "job_position": "Scrum Master",
+      "gender": "F",
+      "location": "Córdoba, Argentina",
+      "photo": "https://media.licdn.com/dms/image/C4D03AQE0EQXgIkfMvg/profile-displayphoto-shrink_200_200/0?e=1576108800&v=beta&t=Wo0pwiIA_lxXGIRvKF2ZJ8FoselqagDmbhDcKwwBUOM",
+    }
+  ]
+}
